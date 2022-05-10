@@ -1,5 +1,5 @@
 public class Hello{
 piblic static vois main(String[]args){
-System.out.println("Master");
+System.out.println("features");
 }
 }
